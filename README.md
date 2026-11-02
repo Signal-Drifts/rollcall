@@ -2,7 +2,7 @@
 
 New names first. Original files stay untouched.
 
-Website: [https://hgus107.github.io/YoFile/suite.html?app=rollcall](https://hgus107.github.io/YoFile/suite.html?app=rollcall)
+Website: [https://signal-drifts.github.io/YoFile/suite.html?app=rollcall](https://signal-drifts.github.io/YoFile/suite.html?app=rollcall)
 
 Current release: **v0.1.2**
 
@@ -40,7 +40,7 @@ Rollcall turns that job into a visible queue. Rename all your files in one go wi
 
 ## How to use
 
-Download the Apple Silicon installer from the [latest release](https://github.com/hgus107/rollcall/releases/latest).
+Download the Apple Silicon installer from the [latest release](https://github.com/Signal-Drifts/rollcall/releases/latest).
 
 1. Add individual files or choose a folder.
 2. Choose Add Text, Replace Text, Change Case, Add Numbers, or Add Date.
